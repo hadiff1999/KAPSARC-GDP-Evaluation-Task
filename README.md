@@ -4,8 +4,16 @@ Problem Statement:
 1)	Scrape or download the data from http://www.jodidb.org/TableViewer/tableView.aspx?ReportId=93906
 2)	Build a simple web user interface with grid and a suitable chart using any framework (simple html CSS / Angular / React, Tableau or power BI ).You may use https://stackblitz.com/ to do your work
 
+----------------------------------------------------------------------------
 
 
+Start Application
+1-  git clone https://github.com/hadiff1999/KAPSARC-GDP-Evaluation-Task.git
+2-  right click on index.html and click on open with live server 
+
+
+
+----------------------------------------------------------------------------
 
 
 Abdulhadi's Assesment  - Jodidata
@@ -28,13 +36,13 @@ The objective of this project is to analyze data sourced from Jodidata, a reliab
 5- Data Visualization: Tableau, is used to create tables, charts, and maps that will help visualize the data in an informative and engaging manner.
 
 
-
+-----------------------------------------------------------------------------
 
 
 Contributors
-[Abdulhadi Alfadhl]: Abdulhadi , Data Analysis, Webpage Design
+[Abdulhadi Alfadhl]: Data Analysis, Webpage Design
 Tools:
 1- Excel, Data Transformation.
-2- [HTML,CSS ]: Tableau.
-3- Tableau
+2- [HTML,CSS ].
+3- Tableau.
 
